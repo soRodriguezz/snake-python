@@ -4,6 +4,7 @@
 ## Índice
 - [Instalación Python](#1-instalación-python-y-pip).
 - [Ejecutar archivo](#2-ejecutar-archivo).
+- [Muestra de juego](#3-muestra-de-juego).
 
 
 ### 1. Intalación Python y PIP
@@ -30,5 +31,7 @@
 
   - Abra una consola y vaya a la ruta donde se encuentre el archivo `snake.py` y ejecutelo con:
   <pre><code>$ python snake.py </code></pre>
+
+### 3. Muestra de juego
 
 ![alt text](https://raw.githubusercontent.com/soRodriguezz/snake-python/master/snake-py.png)
