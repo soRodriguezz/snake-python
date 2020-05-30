@@ -1,12 +1,16 @@
+#Librerias python
 import turtle
 import time
 import random
 
+# para decrecer la velocidad de la cabeza
 postpone = 0.1
 
 # Marcador
 score = 0
 high_score = 0
+
+# Variable para salir del juego
 salir = True
 
 # Configuracion de la ventana
